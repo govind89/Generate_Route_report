@@ -44,7 +44,7 @@ Documentation
 **Step 2** : Build Project and Jar will be created in /target folder.
 
 				cd Route_Report
-				mvn clean install
+				mvn clean package
 
 **Step 3** - Check Jar file in target folder named routeInfo-0.1.jar 
 
