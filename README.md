@@ -35,7 +35,8 @@ Documentation
 -------------
 
 
-#STEPS TO REPORT GENERATION :
+STEPS TO REPORT GENERATION :
+-----------
 
 **Step 1** - Clone this Project in your home/desktop directory. 
 
@@ -50,11 +51,11 @@ Documentation
 
 **Step 5** - Execute  Command:
 				
-				*java -cp  <jar-File> <MainClass> <input_Path>*
+				java -cp  <jar-File> <MainClass> <input_Path>
 				
-				*jar-File* : routeInfo-0.1-shaded.jar
-				*MainClass*  : com.go.route.RouteInfo
-				*input_Path* : where GTFS Transit Data files are present.
+				jar-File : routeInfo-0.1-shaded.jar
+				MainClass  : com.go.route.RouteInfo
+				input_Path : where GTFS Transit Data files are present.
 				
 
 Development
