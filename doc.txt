@@ -1,4 +1,15 @@
-Usage :
+
+STEPS TO REPORT GENERATION :
+
+Step 1 - Create a sample Folder (For Ex.routes_report) in your home/desktop directory. 
+
+Step 2 : Extract the  zip file from 
+
+http://www.sfmta.com/about-sfmta/reports/gtfs-transit-data
+
+Step 3 - Download Jar file routeInfo-0.1.jar 
+
+Step 4 - Execute  Command:
 
 java -cp  <jar-File> <MainClass> <input_Path>
 
