@@ -29,7 +29,7 @@ Downloading
 
 This Project could be checked out from Repository URL :
 
-https://github.com/govind89/Generate_Route_report
+git://github.com/govind89/Generate_Route_report.git
 
 Documentation
 -------------
