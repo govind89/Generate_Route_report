@@ -52,7 +52,7 @@ Documentation
 				
 				*java -cp  <jar-File> <MainClass> <input_Path>*
 				
-				*jar-File* : routeInfo-0.1.jar
+				*jar-File* : routeInfo-0.1-shaded.jar
 				*MainClass*  : com.go.route.RouteInfo
 				*input_Path* : where GTFS Transit Data files are present.
 				
