@@ -61,3 +61,9 @@ STEPS TO REPORT GENERATION :
 Development
 -----------
 Code Development : Eclipse ,Core JAVA
+
+Bugs and Feedback
+-----------
+For bugs, questions and discussions please use the [Github Issues](https://github.com/govind89/Generate_Route_report/issues).
+
+
