@@ -1,15 +1,18 @@
 
 STEPS TO REPORT GENERATION :
 
-Step 1 - Create a sample Folder (For Ex.routes_report) in your home/desktop directory. 
+Step 1 - Clone this Project in your home/desktop directory. 
 
-Step 2 : Extract the  zip file from 
+				git clone git://github.com/govind89/Generate_Route_report.git Route_Report
 
-http://www.sfmta.com/about-sfmta/reports/gtfs-transit-data
+Step 2 : Build Project and Jar will be created in /target folder.
 
-Step 3 - Download Jar file routeInfo-0.1.jar 
+				cd Route_Report
+				mvn clean install
 
-Step 4 - Execute  Command:
+Step 3 - Check Jar file in target folder named routeInfo-0.1.jar 
+
+Step 5 - Execute  Command:
 
 java -cp  <jar-File> <MainClass> <input_Path>
 
