@@ -47,9 +47,9 @@ STEPS TO REPORT GENERATION :
 				cd Route_Report
 				mvn clean package
 
-**Step 3** - Check Jar file in target folder named routeInfo-0.1.jar 
+**Step 3** - Check Jar file in target folder in format : routeInfo-*.jar
 
-**Step 5** - Execute  Command:
+**Step 4** - Execute  Command:
 				
 				java -cp  <jar-File> <MainClass> <input_Path>
 				
